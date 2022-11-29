@@ -7,15 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38101FBC29328A7C0081F024 /* TitanicSeilor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FBB29328A7C0081F024 /* TitanicSeilor.swift */; };
+		38101FBE29328AB00081F024 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FBD29328AB00081F024 /* Calculator.swift */; };
+		38101FC029328C780081F024 /* Movable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FBF29328C780081F024 /* Movable.swift */; };
+		38101FC229328C960081F024 /* Fightable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FC129328C960081F024 /* Fightable.swift */; };
+		38101FC429328CAF0081F024 /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FC329328CAF0081F024 /* Hero.swift */; };
+		38101FC629328CF90081F024 /* Sportsman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FC529328CF90081F024 /* Sportsman.swift */; };
+		38101FC829328D150081F024 /* Sprinter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FC729328D150081F024 /* Sprinter.swift */; };
+		38101FCA29328D2B0081F024 /* Fighter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FC929328D2B0081F024 /* Fighter.swift */; };
+		38101FCC29328D410081F024 /* Mma.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FCB29328D410081F024 /* Mma.swift */; };
+		38101FCE29328D580081F024 /* MmaHeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38101FCD29328D580081F024 /* MmaHeros.swift */; };
+		384CB102292CDB1800B9B8B4 /* ExtensionInt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 384CB101292CDB1800B9B8B4 /* ExtensionInt.swift */; };
+		385167982935342C00CF75BA /* ExtensionString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385167972935342C00CF75BA /* ExtensionString.swift */; };
 		385A06652923F77700266DA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A06642923F77700266DA8 /* AppDelegate.swift */; };
 		385A06672923F77700266DA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A06662923F77700266DA8 /* SceneDelegate.swift */; };
 		385A06692923F77700266DA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A06682923F77700266DA8 /* ViewController.swift */; };
 		385A066C2923F77700266DA8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 385A066A2923F77700266DA8 /* Main.storyboard */; };
 		385A066E2923F77800266DA8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 385A066D2923F77800266DA8 /* Assets.xcassets */; };
 		385A06712923F77800266DA8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 385A066F2923F77800266DA8 /* LaunchScreen.storyboard */; };
+		385A06792923F79300266DA8 /* Sailor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A06782923F79300266DA8 /* Sailor.swift */; };
+		385A067B2923FA2600266DA8 /* Ship.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A067A2923FA2600266DA8 /* Ship.swift */; };
+		385A067D2924041B00266DA8 /* Titanic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A067C2924041B00266DA8 /* Titanic.swift */; };
+		385A067F29240F7800266DA8 /* CalculatorPro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385A067E29240F7800266DA8 /* CalculatorPro.swift */; };
+		385D8649292B91CE007D9F14 /* StreetFightHeros.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385D8648292B91CE007D9F14 /* StreetFightHeros.swift */; };
+		385D864B292BBAF1007D9F14 /* Tavern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 385D864A292BBAF1007D9F14 /* Tavern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		38101FBB29328A7C0081F024 /* TitanicSeilor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitanicSeilor.swift; sourceTree = "<group>"; };
+		38101FBD29328AB00081F024 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		38101FBF29328C780081F024 /* Movable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movable.swift; sourceTree = "<group>"; };
+		38101FC129328C960081F024 /* Fightable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fightable.swift; sourceTree = "<group>"; };
+		38101FC329328CAF0081F024 /* Hero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
+		38101FC529328CF90081F024 /* Sportsman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sportsman.swift; sourceTree = "<group>"; };
+		38101FC729328D150081F024 /* Sprinter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sprinter.swift; sourceTree = "<group>"; };
+		38101FC929328D2B0081F024 /* Fighter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fighter.swift; sourceTree = "<group>"; };
+		38101FCB29328D410081F024 /* Mma.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mma.swift; sourceTree = "<group>"; };
+		38101FCD29328D580081F024 /* MmaHeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MmaHeros.swift; sourceTree = "<group>"; };
+		384CB101292CDB1800B9B8B4 /* ExtensionInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionInt.swift; sourceTree = "<group>"; };
+		385167972935342C00CF75BA /* ExtensionString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtensionString.swift; sourceTree = "<group>"; };
 		385A06612923F77700266DA8 /* Homework 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Homework 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		385A06642923F77700266DA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		385A06662923F77700266DA8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +54,12 @@
 		385A066D2923F77800266DA8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		385A06702923F77800266DA8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		385A06722923F77800266DA8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		385A06782923F79300266DA8 /* Sailor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sailor.swift; sourceTree = "<group>"; };
+		385A067A2923FA2600266DA8 /* Ship.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ship.swift; sourceTree = "<group>"; };
+		385A067C2924041B00266DA8 /* Titanic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Titanic.swift; sourceTree = "<group>"; };
+		385A067E29240F7800266DA8 /* CalculatorPro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorPro.swift; sourceTree = "<group>"; };
+		385D8648292B91CE007D9F14 /* StreetFightHeros.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreetFightHeros.swift; sourceTree = "<group>"; };
+		385D864A292BBAF1007D9F14 /* Tavern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tavern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +95,24 @@
 				385A06642923F77700266DA8 /* AppDelegate.swift */,
 				385A06662923F77700266DA8 /* SceneDelegate.swift */,
 				385A06682923F77700266DA8 /* ViewController.swift */,
+				385A06782923F79300266DA8 /* Sailor.swift */,
+				385A067A2923FA2600266DA8 /* Ship.swift */,
+				385A067C2924041B00266DA8 /* Titanic.swift */,
+				38101FBB29328A7C0081F024 /* TitanicSeilor.swift */,
+				38101FBD29328AB00081F024 /* Calculator.swift */,
+				385A067E29240F7800266DA8 /* CalculatorPro.swift */,
+				38101FBF29328C780081F024 /* Movable.swift */,
+				38101FC129328C960081F024 /* Fightable.swift */,
+				38101FC329328CAF0081F024 /* Hero.swift */,
+				38101FC529328CF90081F024 /* Sportsman.swift */,
+				38101FC729328D150081F024 /* Sprinter.swift */,
+				38101FC929328D2B0081F024 /* Fighter.swift */,
+				38101FCB29328D410081F024 /* Mma.swift */,
+				38101FCD29328D580081F024 /* MmaHeros.swift */,
+				385D8648292B91CE007D9F14 /* StreetFightHeros.swift */,
+				385D864A292BBAF1007D9F14 /* Tavern.swift */,
+				384CB101292CDB1800B9B8B4 /* ExtensionInt.swift */,
+				385167972935342C00CF75BA /* ExtensionString.swift */,
 				385A066A2923F77700266DA8 /* Main.storyboard */,
 				385A066D2923F77800266DA8 /* Assets.xcassets */,
 				385A066F2923F77800266DA8 /* LaunchScreen.storyboard */,
@@ -138,8 +192,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				385A067B2923FA2600266DA8 /* Ship.swift in Sources */,
+				38101FCE29328D580081F024 /* MmaHeros.swift in Sources */,
+				38101FCA29328D2B0081F024 /* Fighter.swift in Sources */,
+				38101FC629328CF90081F024 /* Sportsman.swift in Sources */,
 				385A06692923F77700266DA8 /* ViewController.swift in Sources */,
+				385167982935342C00CF75BA /* ExtensionString.swift in Sources */,
+				38101FC029328C780081F024 /* Movable.swift in Sources */,
+				38101FBC29328A7C0081F024 /* TitanicSeilor.swift in Sources */,
+				38101FC229328C960081F024 /* Fightable.swift in Sources */,
+				38101FC429328CAF0081F024 /* Hero.swift in Sources */,
+				385A067F29240F7800266DA8 /* CalculatorPro.swift in Sources */,
+				384CB102292CDB1800B9B8B4 /* ExtensionInt.swift in Sources */,
+				38101FBE29328AB00081F024 /* Calculator.swift in Sources */,
+				38101FCC29328D410081F024 /* Mma.swift in Sources */,
+				385D864B292BBAF1007D9F14 /* Tavern.swift in Sources */,
+				385D8649292B91CE007D9F14 /* StreetFightHeros.swift in Sources */,
 				385A06652923F77700266DA8 /* AppDelegate.swift in Sources */,
+				385A067D2924041B00266DA8 /* Titanic.swift in Sources */,
+				385A06792923F79300266DA8 /* Sailor.swift in Sources */,
+				38101FC829328D150081F024 /* Sprinter.swift in Sources */,
 				385A06672923F77700266DA8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
